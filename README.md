@@ -21,3 +21,4 @@ Movies/ series info application
 - Sass
 - axios
 - dayjs
+- TMDB api
